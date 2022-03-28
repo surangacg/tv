@@ -82,9 +82,589 @@
     </distributionManagement>
     <dependencies>
         <dependency>
-            <groupId>org.apache.xlan</groupId>
-            <artifactId>xalan</artifactId>
-            <version>2.7.1</version>
-        </dependency>
+<version>2.0.9</version>
+<groupId>AcoomFab</groupId>
+<artifactId>AccomFab</artifactId>
+ </dependency>
+ <dependency>
+<version>5.7.0</version>
+<groupId>org.apache.activemq</groupId>
+<artifactId>activemq-core</artifactId>
+ </dependency>
+ <dependency>
+<version>1.2.0</version>
+<groupId>com.microsoft.azure</groupId>
+<artifactId>adal4j</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.jar.air4</groupId>
+<artifactId>AIR4WebServiceAPI</artifactId>
+<version>6.8.0</version>
+ </dependency>
+ <dependency>
+<version>6.7.9</version>
+<groupId>it.codegen.jar.amadeus</groupId>
+<artifactId>AmadeusAPIWS</artifactId>
+ </dependency>
+ <dependency>
+<version>5.9.0</version>
+<groupId>com.rabbitmq</groupId>
+<artifactId>amqp-client</artifactId>
+ </dependency>
+ <dependency>
+<version>3.3</version>
+<groupId>org.antlr</groupId>
+<artifactId>antlr-runtime</artifactId>
+ </dependency>
+ <dependency>
+<version>6.8.0.48</version>
+<groupId>it.codegen.jar.ati</groupId>
+<artifactId>ATI</artifactId>
+ </dependency>
+ <dependency>
+<version>1.11.571</version>
+<groupId>com.amazonaws</groupId>
+<artifactId>aws-java-sdk</artifactId>
+ </dependency>
+ <dependency>
+<version>1.11.327</version>
+<groupId>com.amazonaws</groupId>
+<artifactId>jmespath-java</artifactId>
+ </dependency>
+ <dependency>
+<version>2.120.0</version>
+<groupId>it.codegen.tbx.api.service</groupId>
+<artifactId>base-service</artifactId>
+ </dependency>
+ <dependency>
+<version>2.0</version>
+<groupId>Bonotel</groupId>
+<artifactId>Bonotel</artifactId>
+ </dependency>
+ <dependency>
+<version>1.3.1</version>
+<groupId>com.fasterxml</groupId>
+<artifactId>classmate</artifactId>
+ </dependency>
+ <dependency>
+<version>1.8.5</version>
+<groupId>uk.com.robust-it</groupId>
+<artifactId>cloning</artifactId>
+ </dependency>
+ <dependency>
+<version>1.9</version>
+<groupId>commons-codec</groupId>
+<artifactId>commons-codec</artifactId>
+ </dependency>
+ <dependency>
+<version>1.18</version>
+<groupId>org.apache.commons</groupId>
+<artifactId>commons-compress</artifactId>
+ </dependency>
+ <dependency>
+<version>1.3.3</version>
+<groupId>commons-fileupload</groupId>
+<artifactId>commons-fileupload</artifactId>
+ </dependency>
+ <dependency>
+<version>2.4</version>
+<groupId>commons-io</groupId>
+<artifactId>commons-io</artifactId>
+ </dependency>
+ <dependency>
+<version>1.3</version>
+<groupId>commons-jxpath</groupId>
+<artifactId>commons-jxpath</artifactId>
+ </dependency>
+ <dependency>
+<version>3.3.2</version>
+<groupId>org.apache.commons</groupId>
+<artifactId>commons-lang3</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1.3</version>
+<groupId>commons-logging</groupId>
+<artifactId>commons-logging</artifactId>
+ </dependency>
+ <dependency>
+<version>2.0</version>
+<groupId>org.apache.commons</groupId>
+<artifactId>commons-vfs2</artifactId>
+ </dependency>
+ <dependency>
+<version>1.0.2</version>
+<groupId>com.ning</groupId>
+<artifactId>compress-lzf</artifactId>
+ </dependency>
+ <dependency>
+<version>0.0.11</version>
+<groupId>it.codegen</groupId>
+<artifactId>context</artifactId>
+ </dependency>
+ <dependency>
+<version>1.0-SNAPSHOT</version>
+<groupId>it.codegen.jar.illusions</groupId>
+<artifactId>CoreH2h</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen</groupId>
+<artifactId>DocumentFactory</artifactId>
+<version>6.8.0-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<version>0.8.0</version>
+<groupId>it.codegen.source</groupId>
+<artifactId>driver-util</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>drools-compiler</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>drools-core</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>drools-decisiontables</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>drools-jsr94</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>drools-templates</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>droolsjbpm-ide-common</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen</groupId>
+<artifactId>ElasticsearchPusher</artifactId>
+<version>6.8.0-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.tbx.travelboxlibrary</groupId>
+<artifactId>ESConnectionPool</artifactId>
+<version>1.0.9.KU-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.tbx.framework</groupId>
+<artifactId>extension_framework</artifactId>
+<version>1.0.9.KU-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<version>2.09</version>
+<groupId>Fab</groupId>
+<artifactId>Fab</artifactId>
+ </dependency>
+ <dependency>
+<version>1.0.1</version>
+<groupId>org.apache.geronimo.specs</groupId>
+<artifactId>geronimo-j2ee-management_1.1_spec</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1</version>
+<groupId>org.apache.geronimo.specs</groupId>
+<artifactId>geronimo-jms_1.1_spec</artifactId>
+ </dependency>
+ <dependency>
+<version>1.9.18-k</version>
+<groupId>com.sun.grizzly</groupId>
+<artifactId>grizzly-nio-framework</artifactId>
+ </dependency>
+ <dependency>
+<groupId>com.google.code.gson</groupId>
+<artifactId>gson</artifactId>
+<version>2.8.6</version>
+ </dependency>
+ <dependency>
+<version>1.7.1</version>
+<groupId>io.gsonfire</groupId>
+<artifactId>gson-fire</artifactId>
+ </dependency>
+ <dependency>
+<version>19.0</version>
+<groupId>com.google.guava</groupId>
+<artifactId>guava</artifactId>
+ </dependency>
+ <dependency>
+<version>2.1.6</version>
+<groupId>org.hdrhistogram</groupId>
+<artifactId>HdrHistogram</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1</version>
+<groupId>HotelBeds</groupId>
+<artifactId>HotelBeds</artifactId>
+ </dependency>
+ <dependency>
+<version>0.7.1</version>
+<groupId>com.carrotsearch</groupId>
+<artifactId>hppc</artifactId>
+ </dependency>
+ <dependency>
+<version>4.1</version>
+<groupId>org.apache.httpcomponents</groupId>
+<artifactId>httpasyncclient</artifactId>
+ </dependency>
+ <dependency>
+<version>4.5.5</version>
+<groupId>org.apache.httpcomponents</groupId>
+<artifactId>httpclient</artifactId>
+ </dependency>
+ <dependency>
+<version>4.4</version>
+<groupId>org.apache.httpcomponents</groupId>
+<artifactId>httpcore</artifactId>
+ </dependency>
+ <dependency>
+<version>4.4.5</version>
+<groupId>org.apache.httpcomponents</groupId>
+<artifactId>httpcore-nio</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen</groupId>
+<artifactId>ImageUtil</artifactId>
+<version>1.0.0</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.tbx.framework</groupId>
+<artifactId>it_codegen_ext_security</artifactId>
+<version>1.0.9.KU-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.tbx.framework</groupId>
+<artifactId>it_codegen_tbx_spi</artifactId>
+<version>1.0.9.KU-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<version>2.9.9</version>
+<groupId>com.fasterxml.jackson.core</groupId>
+<artifactId>jackson-annotations</artifactId>
+ </dependency>
+ <dependency>
+<version>2.9.9</version>
+<groupId>com.fasterxml.jackson.core</groupId>
+<artifactId>jackson-core</artifactId>
+ </dependency>
+ <dependency>
+<version>2.9.9</version>
+<groupId>com.fasterxml.jackson.core</groupId>
+<artifactId>jackson-databind</artifactId>
+ </dependency>
+ <dependency>
+<version>2.8.1</version>
+<groupId>com.fasterxml.jackson.dataformat</groupId>
+<artifactId>jackson-dataformat-cbor</artifactId>
+ </dependency>
+ <dependency>
+<version>2.8.1</version>
+<groupId>com.fasterxml.jackson.dataformat</groupId>
+<artifactId>jackson-dataformat-smile</artifactId>
+ </dependency>
+ <dependency>
+<version>2.9.6</version>
+<groupId>com.fasterxml.jackson.dataformat</groupId>
+<artifactId>jackson-dataformat-yaml</artifactId>
+ </dependency>
+ <dependency>
+<version>2.9.9</version>
+<groupId>com.fasterxml.jackson.datatype</groupId>
+<artifactId>jackson-datatype-jsr310</artifactId>
+ </dependency>
+ <dependency>
+<groupId>javax.jws</groupId>
+<artifactId>javax.jws-api</artifactId>
+<version>1.1</version>
+ </dependency>
+ <dependency>
+<version>4.0.1</version>
+<groupId>javax.servlet</groupId>
+<artifactId>javax.servlet-api</artifactId>
+ </dependency>
+ <dependency>
+<version>3.3.1.Final</version>
+<groupId>org.jboss.logging</groupId>
+<artifactId>jboss-logging</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.jbpm</groupId>
+<artifactId>jbpm-bpmn2</artifactId>
+ </dependency>
+ <dependency>
+<version>1.2</version>
+<groupId>org.joda</groupId>
+<artifactId>joda-convert</artifactId>
+ </dependency>
+ <dependency>
+<version>2.9.5</version>
+<groupId>joda-time</groupId>
+<artifactId>joda-time</artifactId>
+ </dependency>
+ <dependency>
+<version>5.0.2</version>
+<groupId>net.sf.jopt-simple</groupId>
+<artifactId>jopt-simple</artifactId>
+ </dependency>
+ <dependency>
+<version>2.3</version>
+<groupId>net.minidev</groupId>
+<artifactId>json-smart</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1.0</version>
+<groupId>com.twitter</groupId>
+<artifactId>jsr166e</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>knowledge-api</artifactId>
+ </dependency>
+ <dependency>
+<version>5.5.0.Final</version>
+<groupId>org.drools</groupId>
+<artifactId>knowledge-internal-api</artifactId>
+ </dependency>
+ <dependency>
+<version>2.7</version>
+<groupId>org.apache.logging.log4j</groupId>
+<artifactId>log4j-1.2-api</artifactId>
+ </dependency>
+ <dependency>
+<version>1.2.17</version>
+<groupId>log4j</groupId>
+<artifactId>log4j</artifactId>
+ </dependency>
+ <dependency>
+<version>2.17.1</version>
+<groupId>org.apache.logging.log4j</groupId>
+<artifactId>log4j-api</artifactId>
+ </dependency>
+ <dependency>
+<version>2.17.1</version>
+<groupId>org.apache.logging.log4j</groupId>
+<artifactId>log4j-core</artifactId>
+ </dependency>
+ <dependency>
+<version>1.0.1</version>
+<groupId>it.codegen.logging</groupId>
+<artifactId>logger-api</artifactId>
+ </dependency>
+ <dependency>
+<version>1.4.7</version>
+<groupId>javax.mail</groupId>
+<artifactId>mail</artifactId>
+ </dependency>
+ <dependency>
+<version>3.0.3</version>
+<groupId>org.pcollections</groupId>
+<artifactId>pcollections</artifactId>
+ </dependency>
+ <dependency>
+<version>2.1.3.Final</version>
+<groupId>org.mvel</groupId>
+<artifactId>mvel2</artifactId>
+ </dependency>
+ <dependency>
+<version>3.10.5.Final</version>
+<groupId>io.netty</groupId>
+<artifactId>netty</artifactId>
+ </dependency>
+ <dependency>
+<artifactId>netty-all</artifactId>
+<groupId>io.netty</groupId>
+<version>4.1.51.Final</version>
+ </dependency>
+ <dependency>
+<version>3.14.2</version>
+<groupId>com.squareup.okhttp3</groupId>
+<artifactId>okhttp</artifactId>
+ </dependency>
+ <dependency>
+<version>1.17.2</version>
+<groupId>com.squareup.okio</groupId>
+<artifactId>okio</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.source.payment</groupId>
+<artifactId>payment-driver-api</artifactId>
+<version>0.22</version>
+ </dependency>
+ <dependency>
+<version>1.5.2</version>
+<groupId>io.protostuff</groupId>
+<artifactId>protostuff-api</artifactId>
+ </dependency>
+ <dependency>
+<version>1.5.2</version>
+<groupId>io.protostuff</groupId>
+<artifactId>protostuff-core</artifactId>
+ </dependency>
+ <dependency>
+<version>1.5.2</version>
+<groupId>io.protostuff</groupId>
+<artifactId>protostuff-runtime</artifactId>
+ </dependency>
+ <dependency>
+<version>6.7.9</version>
+<groupId>it.codegen.jar.rmi</groupId>
+<artifactId>RMI</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1</version>
+<groupId>org.elasticsearch</groupId>
+<artifactId>securesm</artifactId>
+ </dependency>
+ <dependency>
+<version>1.7.7</version>
+<groupId>org.slf4j</groupId>
+<artifactId>slf4j-api</artifactId>
+ </dependency>
+ <dependency>
+<version>1.7.5</version>
+<groupId>org.slf4j</groupId>
+<artifactId>slf4j-log4j12</artifactId>
+ </dependency>
+ <dependency>
+<version>1.15</version>
+<groupId>org.yaml</groupId>
+<artifactId>snakeyaml</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1.0.1</version>
+<groupId>org.xerial.snappy</groupId>
+<artifactId>snappy-java</artifactId>
+ </dependency>
+ <dependency>
+<version>2.1.9.RELEASE</version>
+<groupId>org.springframework.data</groupId>
+<artifactId>spring-data-commons</artifactId>
+ </dependency>
+ <dependency>
+<version>2.1.9.RELEASE</version>
+<groupId>org.springframework.data</groupId>
+<artifactId>spring-data-jpa</artifactId>
+ </dependency>
+ <dependency>
+<version>3.1.9.RELEASE</version>
+<groupId>org.springframework.data</groupId>
+<artifactId>spring-data-rest-core</artifactId>
+ </dependency>
+ <dependency>
+<version>0.25.1.RELEASE</version>
+<groupId>org.springframework.hateoas</groupId>
+<artifactId>spring-hateoas</artifactId>
+ </dependency>
+ <dependency>
+<version>1.2.0.RELEASE</version>
+<groupId>org.springframework.plugin</groupId>
+<artifactId>spring-plugin-core</artifactId>
+ </dependency>
+ <dependency>
+<version>1.2.0.RELEASE</version>
+<groupId>org.springframework.plugin</groupId>
+<artifactId>spring-plugin-metadata</artifactId>
+ </dependency>
+ <dependency>
+<version>2.5.0.RELEASE</version>
+<groupId>org.springframework.security.oauth</groupId>
+<artifactId>spring-security-oauth2</artifactId>
+ </dependency>
+ <dependency>
+<version>1.5.6</version>
+<groupId>io.swagger</groupId>
+<artifactId>swagger-annotations</artifactId>
+ </dependency>
+ <dependency>
+<version>1.5.6</version>
+<groupId>io.swagger</groupId>
+<artifactId>swagger-models</artifactId>
+ </dependency>
+ <dependency>
+<version>3.0</version>
+<groupId>com.tdunning</groupId>
+<artifactId>t-digest</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen</groupId>
+<artifactId>TBXBootstrap</artifactId>
+<version>6.8.0-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.tbx</groupId>
+<artifactId>it_codegen_tbx</artifactId>
+<version>6.8.0-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.tbx.framework</groupId>
+<artifactId>travelbox_commons</artifactId>
+<version>1.0.9.KU-SNAPSHOT</version>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.jar.travelfusion</groupId>
+<artifactId>TravelFusion</artifactId>
+<version>1.2.2</version>
+ </dependency>
+ <dependency>
+<version>6.7.9</version>
+<groupId>it.codegen.jar.traveltek</groupId>
+<artifactId>Traveltek</artifactId>
+ </dependency>
+ <dependency>
+<version>1.3.5</version>
+<groupId>it.codegen.tritium</groupId>
+<artifactId>tritium-hotel-api-stub</artifactId>
+ </dependency>
+ <dependency>
+<version>1.1.0.Final</version>
+<groupId>javax.validation</groupId>
+<artifactId>validation-api</artifactId>
+ </dependency>
+ <dependency>
+<version>6.8.0.98</version>
+<groupId>it.codegen.jar.worldpay</groupId>
+<artifactId>WorldPay</artifactId>
+ </dependency>
+ <dependency>
+<groupId>it.codegen.source.payment</groupId>
+<artifactId>worldpay-driver</artifactId>
+<version>1.24.1</version>
+ </dependency>
+ <dependency>
+<version>1.6.19</version>
+<groupId>org.apache.ws.security</groupId>
+<artifactId>wss4j</artifactId>
+ </dependency>
+ <dependency>
+<version>2.2.5</version>
+<groupId>org.apache.wss4j</groupId>
+<artifactId>wss4j-ws-security-common</artifactId>
+ </dependency>
+ <dependency>
+<version>2.2.5</version>
+<groupId>org.apache.wss4j</groupId>
+<artifactId>wss4j-ws-security-dom</artifactId>
+ </dependency>
+ <dependency>
+<version>2.1.5</version>
+<groupId>org.apache.santuario</groupId>
+<artifactId>xmlsec</artifactId>
+ </dependency>
+ <dependency>
+<version>1.4.11.1</version>
+<groupId>com.thoughtworks.xstream</groupId>
+<artifactId>xstream</artifactId>
+ </dependency>
     </dependencies>
 </project>
