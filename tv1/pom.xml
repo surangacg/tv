@@ -2428,7 +2428,7 @@ Viewers can download
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk</artifactId>
 </dependency><dependency>
-<version>1.11.327</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>jmespath-java</artifactId>
 </dependency><dependency>
@@ -3132,7 +3132,7 @@ Viewers can download
 <artifactId>aws-java-sdk-swf-libraries</artifactId>
 </dependency>
 <dependency>
-<version>1.11.744</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
 </dependency>
@@ -3737,12 +3737,12 @@ Viewers can download
 <artifactId>jedis</artifactId>
 </dependency>
 <dependency>
-<version>1.11.744</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>jmespath-java</artifactId>
 </dependency>
 <dependency>
-<version>1.11.356</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>jmespath-java</artifactId>
 </dependency>
@@ -4465,7 +4465,7 @@ Viewers can download
 	<artifactId>aws-java-sdk</artifactId>
 </dependency>
 <dependency>
-	<version>1.11.327</version>
+	<version>1.12.187</version>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>jmespath-java</artifactId>
 </dependency>
@@ -5208,7 +5208,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -5393,7 +5393,7 @@ Viewers can download
 <artifactId>mimepull</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -5553,7 +5553,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -8050,7 +8050,7 @@ Viewers can download
 	<artifactId>aws-java-sdk</artifactId>
 </dependency>
 <dependency>
-	<version>1.11.327</version>
+	<version>1.12.187</version>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>jmespath-java</artifactId>
 </dependency>
@@ -11019,7 +11019,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -11446,7 +11446,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -12758,7 +12758,7 @@ Viewers can download
 <artifactId>aws-java-sdk</artifactId>
  </dependency>
  <dependency>
-<version>1.11.327</version>
+<version>1.12.187</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>jmespath-java</artifactId>
  </dependency>
