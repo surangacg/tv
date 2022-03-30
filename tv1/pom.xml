@@ -488,7 +488,7 @@
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -1404,7 +1404,7 @@
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.25.1.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -2229,7 +2229,7 @@
 <artifactId>spring-data-rest-core</artifactId>
 </dependency>
 <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
 </dependency>
@@ -2928,7 +2928,7 @@ Viewers can download
 <groupId>org.springframework.data</groupId>
 <artifactId>spring-data-rest-core</artifactId>
 </dependency><dependency>
-<version>0.25.1.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
 </dependency><dependency>
@@ -4197,7 +4197,7 @@ Viewers can download
 <artifactId>spring-data-rest-webmvc</artifactId>
 </dependency>
 <dependency>
-<version>0.25.1.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
 </dependency>
@@ -5070,7 +5070,7 @@ Viewers can download
 	<artifactId>spring-data-rest-core</artifactId>
 </dependency>
 <dependency>
-	<version>0.25.1.RELEASE</version>
+	<version>1.0.0.RELEASE</version>
 	<groupId>org.springframework.hateoas</groupId>
 	<artifactId>spring-hateoas</artifactId>
 </dependency>
@@ -8785,7 +8785,7 @@ Viewers can download
 	<artifactId>spring-data-rest-core</artifactId>
 </dependency>
 <dependency>
-	<version>0.25.1.RELEASE</version>
+	<version>1.0.0.RELEASE</version>
 	<groupId>org.springframework.hateoas</groupId>
 	<artifactId>spring-hateoas</artifactId>
 </dependency>
@@ -9447,7 +9447,7 @@ Viewers can download
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -10096,7 +10096,7 @@ Viewers can download
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -10818,7 +10818,7 @@ Viewers can download
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.25.1.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -11329,7 +11329,7 @@ Viewers can download
 <artifactId>slf4j-log4j12</artifactId>
  </dependency>
  <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -11751,7 +11751,7 @@ Viewers can download
 <artifactId>slf4j-log4j12</artifactId>
  </dependency>
  <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -12238,7 +12238,7 @@ Viewers can download
       <artifactId>spring-data-rest-webmvc</artifactId>
    </dependency>
    <dependency>
-      <version>0.25.1.RELEASE</version>
+      <version>1.0.0.RELEASE</version>
       <groupId>org.springframework.hateoas</groupId>
       <artifactId>spring-hateoas</artifactId>
    </dependency>
@@ -13193,7 +13193,7 @@ Viewers can download
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.25.1.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
@@ -14109,7 +14109,7 @@ Viewers can download
 <artifactId>spring-data-rest-core</artifactId>
  </dependency>
  <dependency>
-<version>0.21.0.RELEASE</version>
+<version>1.0.0.RELEASE</version>
 <groupId>org.springframework.hateoas</groupId>
 <artifactId>spring-hateoas</artifactId>
  </dependency>
