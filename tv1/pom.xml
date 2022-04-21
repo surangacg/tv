@@ -1419,7 +1419,7 @@
 <artifactId>spring-plugin-metadata</artifactId>
  </dependency>
  <dependency>
-<version>2.3.6.RELEASE</version>
+<version>2.5.2.RELEASE</version>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
  </dependency>
@@ -2244,7 +2244,7 @@
 <artifactId>spring-plugin-metadata</artifactId>
 </dependency>
 <dependency>
-<version>2.3.6.RELEASE</version>
+<version>2.5.2.RELEASE</version>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
 </dependency>
@@ -2940,7 +2940,7 @@ Viewers can download
 <groupId>org.springframework.plugin</groupId>
 <artifactId>spring-plugin-metadata</artifactId>
 </dependency><dependency>
-<version>2.5.0.RELEASE</version>
+<version>2.5.2.RELEASE</version>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
 </dependency><dependency>
@@ -3132,7 +3132,7 @@ Viewers can download
 <artifactId>aws-java-sdk-swf-libraries</artifactId>
 </dependency>
 <dependency>
-<version>1.11.744</version>
+<version>1.12.203</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
 </dependency>
@@ -4212,7 +4212,7 @@ Viewers can download
 <artifactId>spring-plugin-metadata</artifactId>
 </dependency>
 <dependency>
-<version>2.0.18.RELEASE</version>
+<version>2.5.2.RELEASE</version>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
 </dependency>
@@ -5085,7 +5085,7 @@ Viewers can download
 	<artifactId>spring-plugin-metadata</artifactId>
 </dependency>
 <dependency>
-	<version>2.5.0.RELEASE</version>
+	<version>2.5.2.RELEASE</version>
 	<groupId>org.springframework.security.oauth</groupId>
 	<artifactId>spring-security-oauth2</artifactId>
 </dependency>
@@ -5208,7 +5208,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.203</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -5393,7 +5393,7 @@ Viewers can download
 <artifactId>mimepull</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.203</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -5553,7 +5553,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.203</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -8800,7 +8800,7 @@ Viewers can download
 	<artifactId>spring-plugin-metadata</artifactId>
 </dependency>
 <dependency>
-	<version>2.5.0.RELEASE</version>
+	<version>2.5.2.RELEASE</version>
 	<groupId>org.springframework.security.oauth</groupId>
 	<artifactId>spring-security-oauth2</artifactId>
 </dependency>
@@ -10833,7 +10833,7 @@ Viewers can download
 <artifactId>spring-plugin-metadata</artifactId>
  </dependency>
  <dependency>
-<version>2.3.6.RELEASE</version>
+<version>2.5.2.RELEASE</version>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
  </dependency>
@@ -11019,7 +11019,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.203</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -11446,7 +11446,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.203</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -12253,7 +12253,7 @@ Viewers can download
       <artifactId>spring-plugin-metadata</artifactId>
    </dependency>
    <dependency>
-      <version>2.5.0.RELEASE</version>
+      <version>2.5.2.RELEASE</version>
       <groupId>org.springframework.security.oauth</groupId>
       <artifactId>spring-security-oauth2</artifactId>
    </dependency>
@@ -13208,7 +13208,7 @@ Viewers can download
 <artifactId>spring-plugin-metadata</artifactId>
  </dependency>
  <dependency>
-<version>2.5.0.RELEASE</version>
+<version>2.5.2.RELEASE</version>
 <groupId>org.springframework.security.oauth</groupId>
 <artifactId>spring-security-oauth2</artifactId>
  </dependency>
