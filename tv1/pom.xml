@@ -3132,7 +3132,7 @@ Viewers can download
 <artifactId>aws-java-sdk-swf-libraries</artifactId>
 </dependency>
 <dependency>
-<version>1.11.744</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
 </dependency>
@@ -5208,7 +5208,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -5393,7 +5393,7 @@ Viewers can download
 <artifactId>mimepull</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -5553,7 +5553,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -11019,7 +11019,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
@@ -11446,7 +11446,7 @@ Viewers can download
 <artifactId>antlr-runtime</artifactId>
  </dependency>
  <dependency>
-<version>1.9.6</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk-core</artifactId>
  </dependency>
