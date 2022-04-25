@@ -2424,7 +2424,7 @@ Viewers can download
 <artifactId>jaxb-core</artifactId>
 <version>2.3.0</version>
 </dependency><dependency>
-<version>1.11.571</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk</artifactId>
 </dependency><dependency>
@@ -4460,7 +4460,7 @@ Viewers can download
 	<version>2.3.0</version>
 </dependency>
 <dependency>
-	<version>1.11.571</version>
+	<version>1.12.205</version>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>aws-java-sdk</artifactId>
 </dependency>
@@ -8045,7 +8045,7 @@ Viewers can download
 	<version>2.3.0</version>
 </dependency>
 <dependency>
-	<version>1.11.571</version>
+	<version>1.12.205</version>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>aws-java-sdk</artifactId>
 </dependency>
@@ -12753,7 +12753,7 @@ Viewers can download
 <artifactId>ATI</artifactId>
  </dependency>
  <dependency>
-<version>1.11.571</version>
+<version>1.12.205</version>
 <groupId>com.amazonaws</groupId>
 <artifactId>aws-java-sdk</artifactId>
  </dependency>
